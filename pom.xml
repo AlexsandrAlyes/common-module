@@ -41,6 +41,8 @@
         <guava.version>29.0-jre</guava.version>
         <lombok.version>1.18.22</lombok.version>
         <springboot.test.version>2.1.2.RELEASE</springboot.test.version>
+        <liquibase-core.version>4.10.0</liquibase-core.version>
+        <mybatis.spring.version>2.2.2</mybatis.spring.version>
     </properties>
 
     <dependencyManagement>
